@@ -1,8 +1,9 @@
 {
   "name": "vikingo-marketing-plugin",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "22 magyar marketing-skill: márka- és termék-kontextus építése, majd e-mail, hirdetés, videó-script, sales- és landing oldal írása, landing oldal HTML-ben. Skillek: ajanlat-workshop, automatizmus-tervezo, brand-specialista, celcsoport-elemzo, email-iro, feladat-iro, hirdetes-szovegiro, hirdetes-video-script-iro, kampany-tervezo, landing-design, landing-elesites, landing-epito, landing-szovegiro, markahang-elemzo, sales-oldal-iro, social-tartalom-tervezo, szoveg-emberiesito, termek-specialista, testimonial-elemzo, ux-tervezo, versenytars-elemzo, webinar-script-iro.",
   "author": {
     "name": "Vikingo Kft"
-  }
+  },
+  "icon": "./assets/icon.png"
 }

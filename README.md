@@ -1,4 +1,4 @@
-# Marketing skill-csomag (v1.3.0)
+# Marketing skill-csomag (v1.3.1)
 
 22 magyar nyelvű marketing-skill Claude Code-hoz és Codexhez. A céged saját márkahangján
 és termékein dolgoznak: először felépítik a márka-alapodat, aztán abból írnak e-mailt,
