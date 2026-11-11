@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing design"
+  short_description: "Projektfelmérésből és referenciákból készít landinget"
+  default_prompt: "Használd a $landing-design skillt: mérd fel a projektmappát, kérd be a hiányzó referenciákat, elemezd őket asztali nézetben, majd készíts ezekhez illeszkedő landing oldalt."
