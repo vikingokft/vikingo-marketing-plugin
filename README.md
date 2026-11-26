@@ -1,10 +1,17 @@
-# Marketing skill-csomag (v1.3.1)
+# Marketing skill-csomag (v1.4.0)
 
-22 magyar nyelvű marketing-skill Claude Code-hoz és Codexhez. A céged saját márkahangján
+23 magyar nyelvű marketing-skill Claude Code-hoz és Codexhez. A céged saját márkahangján
 és termékein dolgoznak: először felépítik a márka-alapodat, aztán abból írnak e-mailt,
 hirdetést, sales-oldalt, landing oldalt és a többit.
 
-## Mi új a 1.3.0-ban
+## Mi új a 1.4.0-ban
+
+- **Új: `design-rendszer-referenciabol`.** Egy vagy több tetsző oldalból, appból vagy
+  képernyőképből design rendszert készít: `DESIGN.md`, `tokens.css` és egy előnézeti oldal,
+  amiből weboldal, kalkulátor, böngésző-bővítmény, dia vagy grafika is készülhet egységesen.
+  Csak azt veszi át, ami a referenciában tényleg megvan, és szóbeli kérésre javítja.
+
+## Mi volt új a 1.3.0-ban
 
 - **Minden landing-recept:** a `landing-szovegiro` már nem csak az alapoldalt írja, hanem mind a
   25 receptet ismeri (letölthető csali, webinár és esemény, kihívás, értékesítési oldal,
@@ -79,7 +86,9 @@ lehet saját `szoveg-emberiesito` skillje; a landing oldalhoz ennek a csomagnak 
 6. **`kampany-tervezo`**, **`automatizmus-tervezo`**: kampány-, tölcsér- és e-mail-automatizmus terv.
 7. **Írók**: `email-iro`, `hirdetes-szovegiro`, `hirdetes-video-script-iro`, `sales-oldal-iro`,
    `webinar-script-iro`, `social-tartalom-tervezo`, `landing-szovegiro`, és az oldalakhoz a `ux-tervezo`.
-8. **Befejezés**: `szoveg-emberiesito` bármilyen kész szövegre, `feladat-iro`, ha valamit át kell
+8. **Design rendszer**: `design-rendszer-referenciabol`, ha a saját eszközeidnek és oldalaidnak
+   egységes stílus kell egy tetsző oldal alapján.
+9. **Befejezés**: `szoveg-emberiesito` bármilyen kész szövegre, `feladat-iro`, ha valamit át kell
    adnod egy segítőnek.
 
 **A landing oldal sorrendje:** `landing-szovegiro` (szöveg, recept szerint) → `szoveg-emberiesito`

@@ -39,7 +39,7 @@ Egy szabály minden író-skillre, hogy a két helyzetben ugyanaz a szerkezet le
 |---|---|---|
 | **Építő** | Nyers anyagból kanonikus agyfájlt ír. Kérdez, kutat, elemez. | `brand-specialista`, `markahang-elemzo`, `celcsoport-elemzo`, `versenytars-elemzo`, `testimonial-elemzo`, `termek-specialista` (termék és csali módban), `ajanlat-workshop` |
 | **Író** | A kész agyból dolgozik, és eredményterméket termel. Nem kérdez ki, nem elemez. | `email-iro`, `hirdetes-szovegiro`, `hirdetes-video-script-iro`, `sales-oldal-iro`, `webinar-script-iro`, `social-tartalom-tervezo`, `kampany-tervezo`, `automatizmus-tervezo`, `ux-tervezo`, `landing-szovegiro`, `landing-design`, `landing-epito`, `landing-elesites` |
-| **Eszköz, utómunka** | Kész szövegen vagy a felhasználó saját anyagán dolgozik. Az agyból legfeljebb a márkahangot olvassa. | `szoveg-emberiesito`, `feladat-iro` |
+| **Eszköz, utómunka** | Kész szövegen vagy a felhasználó saját anyagán dolgozik. Az agyból legfeljebb a márkahangot olvassa. | `szoveg-emberiesito`, `feladat-iro`, `design-rendszer-referenciabol` |
 
 Az író-skillek **nem építenek kontextust**. Ha egy író-skill azon kapja magát, hogy interjút készít a termékről vagy a célcsoportról, rossz családban dolgozik: adja át az építőnek, vagy pótolja a hiányt a lenti protokoll szerint.
 
